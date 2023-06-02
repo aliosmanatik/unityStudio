@@ -13,9 +13,9 @@
 Since Meshlab filters are used to create textures, there is a naming convention coming involved from that step.
 Expected naming conveintion is like this:
 
-model name : modelFileName.obj
-mtl file   : modelFileName.obj.mtl
-texture    : texdefrag_modelFileName.obj_optimized_texture_0.png
+- model name : modelFileName.obj
+- mtl file   : modelFileName.obj.mtl
+- texture    : texdefrag_modelFileName.obj_optimized_texture_0.png
 
 *.mtl is not necessary for program to run. 
 
