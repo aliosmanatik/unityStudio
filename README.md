@@ -10,12 +10,12 @@
 
 ### File naming conventions:
 
-Since Meshlab filters are used to create textures, there is a naming convention coming involved from that step.
-Expected naming conveintion is like this:
+Since Meshlab filters are used to create textures, there is a naming convention involved from that step.
+Expected naming convention is:
 
-- model name : modelFileName.obj
-- mtl file   : modelFileName.obj.mtl
-- texture    : texdefrag_modelFileName.obj_optimized_texture_0.png
+- model name : generated.photos*****.obj
+- mtl file   : generated.photos*****.obj.mtl
+- texture    : texdefrag_generated.photos*****.obj_optimized_texture_0.png
 
 *.mtl is not necessary for program to run. 
 
@@ -28,7 +28,7 @@ Expected naming conveintion is like this:
 * [Deep3DFaceReconstruction ](https://github.com/microsoft/Deep3DFaceReconstruction)
 
 
-# References
+## References
 
 Deng, Y., Yang, J., Xu, S., Chen, D., Jia, Y., &amp; Tong, X. (2019). Accurate 3D face reconstruction with weakly-supervised learning: From single image to image set. 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).[ doi:10.1109/cvprw.2019.00038 ](https://ieeexplore.ieee.org/document/9025463) 
 
