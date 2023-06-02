@@ -1,6 +1,6 @@
 # unityStudio
 
-### *** This repository is under construction !!! ***
+### ***This repository is under construction !!!***
 
 <p align="center"> 
 <img src="/images/samples.gif">
@@ -8,7 +8,7 @@
 
 
 
-### *** This application is a part of my thesis project ***
+### ***This application is a part of my thesis project***
 
 ### File naming conventions:
 
