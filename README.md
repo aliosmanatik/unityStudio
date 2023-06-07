@@ -29,8 +29,8 @@ Expected naming convention is:
 
 * [Deep3DFaceReconstruction ](https://github.com/microsoft/Deep3DFaceReconstruction)
 
-***test_*** folders include 10 samples from each step of the pipeline 
-***photos*** and ***photos_metadata*** folders are samples from ***Academic Dataset by Generated Photos*** 
+*test_* folders include 10 samples from each step of the pipeline <br>
+*photos* and *photos_metadata* folders are samples from *Academic Dataset by Generated Photos*
 
 ## References
 
