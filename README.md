@@ -22,6 +22,11 @@ Expected naming convention is:
 *.mtl is not necessary for program to run. 
 
 
+## Planned updates:
+
+- Auto exposure on/off toggle in "settings"
+- link to thesis repository in "about"
+
 
 ## Resources used in this work:
 
