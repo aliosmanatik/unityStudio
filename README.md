@@ -24,7 +24,7 @@ Expected naming convention is:
 
 ## Planned updates:
 
-- Auto exposure on/off toggle in "settings"
+- ~~Auto exposure on/off toggle in "settings"~~
 - link to thesis repository in "about"
 
 
